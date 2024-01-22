@@ -38,7 +38,7 @@ Os seguintes insights foram obtidos a partir da análise:
 - As vendas de notebooks aumentam nos meses de maio, março e agosto.
 - O modelo de notebook mais vendido é o "Notebook Dell Inspiron XPS 13.
 - A cor mais vendida é o "Preto".
-= O valor do desconto aumenta paralelamente ao valor total das vendas.
+- O valor do desconto aumenta paralelamente ao valor total das vendas.
 
 Esses insights podem ser usados para tomar decisões sobre o marketing, o preço e a distribuição dos notebooks.
 
