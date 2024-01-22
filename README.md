@@ -27,7 +27,7 @@ Distribuição do valor total do desconto x o valor total das vendas: Mostra com
 
 ![Notebook Image](https://github.com/FabricioPP/Analise-de-Dados-Vendas-Notebook/blob/master/src/descvendalinha.png)
 
-Também foi feito uma regressão Linear com base no valor das vendas mensais, e foi observado que as vendas estão decaindo conforme vai passando os meses,
+Também foi feito uma regressão Linear com base no valor das vendas mensais, e foi observado que as vendas estão com uma tendência a diminuir conforme vai passando os meses,
 isso pode servir como um aprendizado para a empresa trabalhar em como aumentar as vendas e melhorar o desempenho dos produtos procurando as causas
 do por que as vendas estão diminuindo.
 
